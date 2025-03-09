@@ -3,7 +3,11 @@
 ---
 A curated list of web3 Security materials and resources For Pentesters and Bug Hunters.
 ---
+Web3 security tools are critical components of a secure blockchain infrastructure. They allow developers to secure the applications and networks running on the blockchain, as well as provide a way to detect and investigate any potential malicious activity.
 
+Smart contract auditing tools help developers identify and fix any security vulnerabilities in their code before deployment. Blockchian Forensics tools can be used to investigate cryptocurrency-related crimes, such as money laundering, fraud, and theft.
+
+This repository contains a list of the most popular and widely used tools in web3 security.
 # Vulnerable Web3 CTFs
 
 - [Capture the Ether](https://capturetheether.com/)
